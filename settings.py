@@ -2,3 +2,7 @@
 # screen
 SCREEN = WIDTH, HEIGHT = 1600, 900
 CENTER = H_WIDTH, H_HEIGHT = WIDTH // 2, HEIGHT // 2
+
+# colors
+SKY = (135, 206, 235)
+FLOOR = (30, 30, 30)
